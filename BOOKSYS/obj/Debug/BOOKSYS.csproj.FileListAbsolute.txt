@@ -1,0 +1,39 @@
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.exe
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.pdb
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\obj\Debug\ResolveAssemblyReference.cache
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form1.resources
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Properties.Resources.resources
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.csproj.GenerateResource.Cache
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.exe
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.pdb
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.exe.config
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form2.resources
+E:\VisualC#应用实践教程\教程实例\CH06\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form4.resources
+G:\CSharp\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.exe.config
+G:\CSharp\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.exe
+G:\CSharp\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.pdb
+G:\CSharp\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.csprojAssemblyReference.cache
+G:\CSharp\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form1.resources
+G:\CSharp\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form2.resources
+G:\CSharp\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form4.resources
+G:\CSharp\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Properties.Resources.resources
+G:\CSharp\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.csproj.GenerateResource.cache
+G:\CSharp\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.csproj.CoreCompileInputs.cache
+G:\CSharp\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.exe
+G:\CSharp\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.pdb
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.exe.config
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.exe
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.pdb
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.exe
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.pdb
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form1.resources
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form2.resources
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form4.resources
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Properties.Resources.resources
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form5.resources
+d:\Documents\Visual Studio 2015\Projects\新建文件夹\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form3.resources
+d:\Documents\Visual Studio 2015\Projects\图书管理系统\BOOKSYS\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.exe.config
+d:\Documents\Visual Studio 2015\Projects\图书管理系统\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.exe
+d:\Documents\Visual Studio 2015\Projects\图书管理系统\BOOKSYS\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.pdb
